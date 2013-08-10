@@ -5,4 +5,4 @@ A partial implementation of the Quine-McCluskey Algorithm to minimize Boolean ex
 Digital Design course at IIT Patna.
 
 Wiki article on the Quine-McCluskey Algorithm: 
-en.wikipedia.org/wiki/Quine–McCluskey_algorithm
+http://en.wikipedia.org/wiki/Quine–McCluskey_algorithm
